@@ -1,0 +1,110 @@
+.navbar-brand{
+    display: inline-flex;
+    color:brown;
+}
+h2{
+    margin-left:280px;
+}
+form{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.div1
+{
+    display: inline-flex;
+    color:brown;
+    padding:10px;
+    
+}
+.planner
+{
+ display: inline-flex;
+ padding: 10px;
+}
+select{
+    width:350px;
+    height: 50px;
+}
+
+.description
+{
+    display: inline-flex;
+     padding: 10px;
+     margin-left:50px;
+     
+}
+h4
+{
+    padding:10px;
+}
+.div2
+{
+    display: inline-flex;
+    margin-top:20px;
+    margin-left: 30px;
+    color:brown;
+}
+.priority
+{
+    display :inline-flex;
+    
+}
+.form-check
+{
+    padding-right:5px;
+    align-items: center;
+   
+}
+.btnn
+{
+    margin-top:200px;
+    margin-left:500px;
+}
+button
+{
+    background-color: saddlebrown;
+    border-radius: 5px;
+    border-style: outset;
+    color: whitesmoke;
+    width:80px;
+    height:35px;
+}
+.ui
+{
+    color: brown;
+}
+select{
+    border-color: brown;
+  
+    border-radius: 5px;
+    border:solid 2px;
+}
+.form-check-input
+{
+    border:solid 2px;
+    border-color: brown;
+ 
+
+    
+    
+}
+.form-check-input:checked
+{
+    border:solid 2px;
+    border-color: brown;
+    background-color: brown;
+
+    
+    
+}
+select:focus
+{
+   outline: brown 2px;
+    border-radius: 5px;
+    border:solid 2px;
+}
+.form-check{
+    padding-top: 10px;
+}
+  
+    
